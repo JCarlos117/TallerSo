@@ -7,3 +7,7 @@ public class HolaMundo {
 	}
 
 }
+
+un hola mundo en python se genera de la siguiente manera: 
+
+print("Hola Mundo")
