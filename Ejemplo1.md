@@ -11,3 +11,15 @@ public class HolaMundo {
 un hola mundo en python se genera de la siguiente manera: 
 
 print("Hola Mundo")
+
+
+como crear un hola mundo en php
+
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
+</html>
