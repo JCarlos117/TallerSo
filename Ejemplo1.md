@@ -23,3 +23,8 @@ como crear un hola mundo en php
  <?php echo '<p>Hola Mundo</p>'; ?>
  </body>
 </html>
+
+hola mundo en javascript:
+
+
+
